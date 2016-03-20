@@ -1,0 +1,35 @@
+@charset  "utf-8";
+
+
+  p{  text-align:center;}
+
+.success-message{
+color:#3c763d;
+background-color: #dff0d8;
+border-color: #c6e9a6 ;
+margin:10px;
+padding:15px;
+
+}
+.success-message span{
+font-weight:bold;}
+
+.error-message{
+color:#a94442;
+background-color:#f2dede ;
+border-color:#ebccd1 ;
+margin:10px;
+padding:15px;
+}
+.error-message span{
+font-weight:bold;}
+
+.info-message{
+color:#3a87ad;
+background-color: #d9edf7 ;
+border-color:#bce8f1;
+margin:10px;
+padding:15px;
+}
+.info-message span{
+font-weight:bold;}
